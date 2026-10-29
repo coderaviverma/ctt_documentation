@@ -864,7 +864,7 @@ Reboots the system.
     * There is only one folder called `wifi` on your USB thumb drive
     * Your JSON file was created with the End of Line Sequence set to **LF**
     * Your JSON file was properly formatted (see **#2** under **Creating the JSON file** above)
-    * Note you can always check your code validity by pasting it into this website: https://jsonlint.com and clicking `Validate JSON`
+    * Note you can always check your code validity with [JSONLint](https://jsonlint.com) or [JSONViewerTool JSON Validator](https://jsonviewertool.com/json-validator). Paste the file into either tool and validate it before mounting the USB drive.
     
 ***
 
